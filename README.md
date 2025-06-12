@@ -20,6 +20,32 @@ This is a Python-based project to **analyze and generate reports on student mark
 
 ## 🛠️ How to Run
 ```bash
+---
+
+## 👩‍💻 Author
+
+- **Hima Bindu Dandru**
+- [LinkedIn](https://www.linkedin.com/in/hima-bindu-dandru-ab184632b/)
+- Email: himabindu.dandru@sasi.ac.in
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+---
+
+## 👩‍💻 Author
+
+- **Hima Bindu Dandru**  
+- 📧 Email: himabindu.dandru@sasi.ac.in  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hima-bindu-dandru-ab184632b/)
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 # Step 1: Clone the repo
 git clone https://github.com/HimaBindu12770/Student_marks_analyzer.git
 
