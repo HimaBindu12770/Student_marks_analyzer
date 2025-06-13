@@ -1,56 +1,105 @@
 # 🎓 Student Marks Analyzer
 
-This is a Python-based project to **analyze and generate reports on student marks**. It takes input for multiple students, calculates total and average marks, and displays a summary report.
+## 📘 Description
+
+This is a Python-based project to **analyze and generate reports on student marks**.  
+It allows the user to enter details of multiple students, calculates total and average marks for each student, and displays a clean summary report.
 
 ---
 
 ## 📌 Features
-- Input student names and marks
-- Calculate total and average
-- Display results in a clean format
-- (Optional) Save results to a file
+
+- Input student names and marks  
+- Calculate total and average  
+- Display results in a clean format  
+- Save results to a file (optional)
 
 ---
 
 ## 🚀 Technologies Used
-- Python
-- (Add: Pandas / Matplotlib if used)
+
+- Python  
+- (Optional) Pandas / Matplotlib for future enhancements
 
 ---
 
-## 🛠️ How to Run
+## 📂 Installation & Run Instructions
+
+### Step 1: Clone the Repository
+
 ```bash
+git clone https://github.com/HimaBindu12770/Student_marks_analyzer.git
+```
+
+### Step 2: Navigate to the Project Directory
+
+```bash
+cd Student_marks_analyzer
+```
+
+### Step 3: Run the Python Script
+
+```bash
+python3 student_marks_analyzer.py
+```
+
 ---
 
-## 👩‍💻 Author
+## 🖥️ Sample Output
 
-- **Hima Bindu Dandru**
-- [LinkedIn](https://www.linkedin.com/in/hima-bindu-dandru-ab184632b/)
-- Email: himabindu.dandru@sasi.ac.in
+```text
+Enter number of students: 2
 
----
+Enter name of student 1: Hima
+Enter number of subjects: 3
+Enter mark for subject 1: 85
+Enter mark for subject 2: 90
+Enter mark for subject 3: 88
 
-## 📄 License
+Enter name of student 2: Bindu
+Enter number of subjects: 3
+Enter mark for subject 1: 78
+Enter mark for subject 2: 82
+Enter mark for subject 3: 80
 
-This project is licensed under the [MIT License](LICENSE).
+------ Summary Report ------
+Student Name: Hima
+Marks: [85, 90, 88]
+Total Marks: 263
+Average Marks: 87.67
+
+Student Name: Bindu
+Marks: [78, 82, 80]
+Total Marks: 240
+Average Marks: 80.00
+----------------------------
+```
+
 ---
 
 ## 👩‍💻 Author
 
 - **Hima Bindu Dandru**  
 - 📧 Email: himabindu.dandru@sasi.ac.in  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hima-bindu-dandru-ab184632b/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hima-bindu-dandru-ab184632b)
 
 ---
 
-## 📜 License
+## 🧾 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-# Step 1: Clone the repo
-git clone https://github.com/HimaBindu12770/Student_marks_analyzer.git
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for more details.
 
-# Step 2: Navigate to project folder
-cd Student_marks_analyzer
+---
 
-# Step 3: Run the script
-python3 student_marks.py
+## 🔮 Future Enhancements
+
+- Add GUI using Tkinter or PyQt  
+- Add grade system based on marks  
+- Export reports to Excel or CSV  
+- Integrate database for storage  
+- Visualize marks using charts (Matplotlib)
+
+---
+
+✨ *Thank you for visiting the project! Contributions and feedback are welcome!*
